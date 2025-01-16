@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Nessi
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning how to be an academic weapon
-- 💞️ I’m looking to collaborate with pepi
+- 🌱 I’m currently learning how to be an academic survivor
 - 📫 How to reach me : neskafet0@gmail.com
 - 😄 Pronouns: d/dx
 -
- ⚡ Fun fact: Obicham da pravq instagram filtri :O
+ ⚡ Fun fact: no
 
 
 
