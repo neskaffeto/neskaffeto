@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to be an academic survivor
 - 📫 How to reach me : neskafet0@gmail.com
 - 😄 Pronouns: d/dx
--
  ⚡ Fun fact: no
 
 
