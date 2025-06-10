@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vanessa
-- 👀 I’m interested in programming and data analysis
+- 👀 I’m interested in web development and data analysis
 - 🌱 I’m currently learning how to be an academic weapon
 - 📫 How to reach me : vanesa.kr.k@gmail.com
 
