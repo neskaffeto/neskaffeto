@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Nessi
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning how to be an academic survivor
-- 📫 How to reach me : neskafet0@gmail.com
-- 😄 Pronouns: d/dx
- ⚡ Fun fact: no
+- 👋 Hi, I’m Vanessa
+- 👀 I’m interested in programming and data analysis
+- 🌱 I’m currently learning how to be an academic weapon
+- 📫 How to reach me : vanesa.kr.k@gmail.com
+
 
 
 
